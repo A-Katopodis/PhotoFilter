@@ -1,0 +1,83 @@
+﻿  Blur.cpp
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\blur.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\blur.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\blur.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\blur.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(12): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(11): note: while compiling class template member function 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\blur.cpp(25): note: see reference to function template instantiation 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)' being compiled
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\image.h(29): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(64): warning C4018: '<': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(58): note: while compiling class template member function 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\blur.cpp(36): note: see reference to function template instantiation 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)' being compiled
+  Color.cpp
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\color.cpp(5): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\color.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(12): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(11): note: while compiling class template member function 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\color.cpp(9): note: see reference to function template instantiation 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)' being compiled
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\image.h(29): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+  Diff.cpp
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\diff.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\diff.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\diff.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\diff.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(12): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(11): note: while compiling class template member function 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\diff.cpp(32): note: see reference to function template instantiation 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)' being compiled
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\image.h(29): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(64): warning C4018: '<': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(58): note: while compiling class template member function 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\diff.cpp(51): note: see reference to function template instantiation 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)' being compiled
+  Gray.cpp
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\gray.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\gray.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(12): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(11): note: while compiling class template member function 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\gray.cpp(14): note: see reference to function template instantiation 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)' being compiled
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\image.h(29): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+  Image.cpp
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(12): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(11): note: while compiling class template member function 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\image.cpp(30): note: see reference to function template instantiation 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)' being compiled
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\image.h(29): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(40): warning C4018: '<': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(36): note: while compiling class template member function 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\image.cpp(85): note: see reference to function template instantiation 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)' being compiled
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(64): warning C4018: '<': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(58): note: while compiling class template member function 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\image.cpp(100): note: see reference to function template instantiation 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)' being compiled
+  main.cpp
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\main.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\main.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(12): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(11): note: while compiling class template member function 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\main.cpp(136): note: see reference to function template instantiation 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)' being compiled
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\image.h(29): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+  Median.cpp
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\median.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\median.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\median.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\median.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(12): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(11): note: while compiling class template member function 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\median.cpp(30): note: see reference to function template instantiation 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)' being compiled
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\image.h(29): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(64): warning C4018: '<': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(58): note: while compiling class template member function 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\median.cpp(48): note: see reference to function template instantiation 'math::Array<math::Vec3<float>> &math::Array<math::Vec3<float>>::operator =(const math::Array<math::Vec3<float>> &)' being compiled
+  ppm_format.cpp
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\ppm_format.cpp(211): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\ppm_format.cpp(212): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\ppm_format.cpp(213): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\ppm_format.cpp(264): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\ppm_format.cpp(265): warning C4018: '<': signed/unsigned mismatch
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\ppm_format.cpp(266): warning C4244: 'argument': conversion from 'float' to 'char', possible loss of data
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\ppm_format.cpp(267): warning C4244: 'argument': conversion from 'float' to 'char', possible loss of data
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\ppm_format.cpp(268): warning C4244: 'argument': conversion from 'float' to 'char', possible loss of data
+c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(12): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\array.hpp(11): note: while compiling class template member function 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)'
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\ppm_format.cpp(266): note: see reference to function template instantiation 'math::Vec3<float> &math::Array<math::Vec3<float>>::operator ()(int,int)' being compiled
+  c:\users\a1\downloads\3rdassg_3140076_3140219\cplusplus_3rdassignment\photofilter\image.h(29): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+  Generating Code...
+  PhotoFilter.vcxproj -> C:\Users\a1\Documents\Visual Studio 2017\Projects\PhotoFilter\Debug\PhotoFilter.exe

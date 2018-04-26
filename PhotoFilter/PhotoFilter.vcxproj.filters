@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\ppm_format.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Blur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Color.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Diff.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Gray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Median.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Array.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Blur.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Diff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Gray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Median.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\ppm_format.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\Serializable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\PhotoFilter.vcxproj.user">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\PhotoFilter.vcxproj.vcxproj">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Downloads\3rdASSG_3140076_3140219\CPlusPlus_3rdAssignment\PhotoFilter\PhotoFilter.vcxproj.filters">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
